@@ -1,17 +1,17 @@
-body {
+body{
     background-image: url(ciudad-de-la-musica.jpg);
 }
 
-h1 {
+h1{
     text-align: center;
-    color: #ffee00;
+    color: #9ef8ec;
     font-size: 60px; 
-    background-color: rgb(96, 231, 231);
+    background-color: rgb(0, 0, 0);
     padding: 20px;
     border-radius: 10px;
 }
 
-ul {
+ul{
     display: flex;
     justify-content: center;
     gap: 200px;
@@ -22,16 +22,16 @@ ul {
     list-style-type: none;
 }
 
-fieldset {
+fieldset{
     border-radius: 30px;
     background-color: rgba(255, 255, 255, 0.327);
 }
 
-h2 {
+h2{
     color:rgb(245, 249, 255); font-size: 30px;
 }
 
-img {
+img{
     width: 30%;
     height: 30%;
     border-radius: 50%;
